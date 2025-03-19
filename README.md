@@ -1,2 +1,3 @@
 # 7010
-my class projects
+just trying out
+
